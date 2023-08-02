@@ -416,6 +416,7 @@
     border: none;
     text-transform: uppercase;
     background-color: aqua;
+    cursor: pointer;
   }
   
   
